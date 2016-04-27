@@ -33,6 +33,7 @@
     },
     "net35": { },
     "net40": { },
+    "net45": { },
     "netcore45": {
       "dependencies": {
         "System.Runtime": "4.0.0"
